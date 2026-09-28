@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Firebase Status Dashboard Updates</title>
+  <updated>2026-09-23T00:04:58+00:00</updated>
+  <link href="https://status.firebase.google.com/" rel="alternate" type="text/html"></link>
+  <link href="https://status.firebase.google.com/en/feed.atom" rel="self"></link>
+  <author>
+    <name>Firebase</name>
+  </author>
+  <id>https://status.firebase.google.com/</id>
+  <entry>
+    <title>RESOLVED: Firebase Test Lab is experiencing availability issues with ARM emulator devices.</title>
+    <link href="https://status.firebase.google.com/incidents/nGr6twhRqtKNCF6NKeQX" rel="alternate" type="text/html"></link>
+    <id>tag:status.firebase.google.com,2026:feed:nGr6twhRqtKNCF6NKeQX.8vt3pbmADi4b1Bsprqqz</id>
+    <updated>2026-09-23T00:04:58+00:00</updated>
+    <summary type="html">&lt;p&gt; Incident began at &lt;strong&gt;2026-09-22 03:00&lt;/strong&gt; and ended at &lt;strong&gt;2026-09-22 16:30&lt;/strong&gt; &lt;span&gt;(all times are &lt;strong&gt;US/Pacific&lt;/strong&gt;).&lt;/span&gt;&lt;/p&gt;&lt;div class="cBIRi14aVDP__status-update-text"&gt;&lt;p&gt;ARM emulator availability issues have been mitigated and full traffic capacity has been restored.&lt;/p&gt;
+&lt;/div&gt;&lt;hr&gt;&lt;p&gt;Affected products: Test Lab&lt;/p&gt;</summary>
+  </entry>
+</feed>
