@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Firebase Status Dashboard Updates</title>
-  <updated>2026-09-23T00:04:58+00:00</updated>
+  <!-- STEP 1: replace BOTH timestamps below with the current UTC time right before you upload -->
+  <updated>2026-09-28T12:09:01+00:00</updated>
   <link href="https://status.firebase.google.com/" rel="alternate" type="text/html"></link>
   <link href="https://status.firebase.google.com/en/feed.atom" rel="self"></link>
   <author>
     <name>Firebase</name>
   </author>
   <id>https://status.firebase.google.com/</id>
+
+  <!-- Replay of incident sothrxmrXjhqQTeVnd8f, update 1 (SERVICE_DISRUPTION) -->
   <entry>
-    <title>RESOLVED: Firebase Test Lab is experiencing availability issues with ARM emulator devices.</title>
-    <link href="https://status.firebase.google.com/incidents/nGr6twhRqtKNCF6NKeQX" rel="alternate" type="text/html"></link>
-    <id>tag:status.firebase.google.com,2026:feed:nGr6twhRqtKNCF6NKeQX.8vt3pbmADi4b1Bsprqqz</id>
-    <updated>2026-09-23T00:04:58+00:00</updated>
-    <summary type="html">&lt;p&gt; Incident began at &lt;strong&gt;2026-09-22 03:00&lt;/strong&gt; and ended at &lt;strong&gt;2026-09-22 16:30&lt;/strong&gt; &lt;span&gt;(all times are &lt;strong&gt;US/Pacific&lt;/strong&gt;).&lt;/span&gt;&lt;/p&gt;&lt;div class="cBIRi14aVDP__status-update-text"&gt;&lt;p&gt;ARM emulator availability issues have been mitigated and full traffic capacity has been restored.&lt;/p&gt;
-&lt;/div&gt;&lt;hr&gt;&lt;p&gt;Affected products: Test Lab&lt;/p&gt;</summary>
+    <title>Firebase Remote Config service disruption</title>
+    <link href="https://status.firebase.google.com/incidents/sothrxmrXjhqQTeVnd8f" rel="alternate" type="text/html"></link>
+    <id>tag:status.firebase.google.com,2025:feed:sothrxmrXjhqQTeVnd8f.MOCKUPDATE1</id>
+    <updated>2026-09-28T12:09:01+00:00</updated>
+    <summary type="html">&lt;p&gt; Incident began at &lt;strong&gt;2025-11-27 04:08&lt;/strong&gt; &lt;span&gt;(all times are &lt;strong&gt;US/Pacific&lt;/strong&gt;).&lt;/span&gt;&lt;/p&gt;&lt;div class="cBIRi14aVDP__status-update-text"&gt;&lt;p&gt;Firebase Remote Config is currently experiencing a service disruption. Please check back for status.&lt;/p&gt;
+&lt;/div&gt;&lt;hr&gt;&lt;p&gt;Affected products: Remote Config&lt;/p&gt;</summary>
+  </entry>
+
+  <!-- Control entry: different product, must NOT send an email -->
+  <entry>
+    <title>RESOLVED: Firebase Cloud Messaging - low availability in North America</title>
+    <link href="https://status.firebase.google.com/incidents/efSHTx8oFZ4CH8XsqZuy" rel="alternate" type="text/html"></link>
+    <id>tag:status.firebase.google.com,2026:feed:efSHTx8oFZ4CH8XsqZuy.EkE9bzgSAJLToiSnygfV</id>
+    <updated>2026-09-01T12:53:08+00:00</updated>
+    <summary type="html">&lt;p&gt; Incident began at &lt;strong&gt;2026-09-01 01:40&lt;/strong&gt; and ended at &lt;strong&gt;2026-09-01 05:31&lt;/strong&gt; &lt;span&gt;(all times are &lt;strong&gt;US/Pacific&lt;/strong&gt;).&lt;/span&gt;&lt;/p&gt;&lt;div class="cBIRi14aVDP__status-update-text"&gt;&lt;p&gt;The problem has been resolved. All services in scope are back to normal.&lt;/p&gt;
+&lt;/div&gt;&lt;hr&gt;&lt;p&gt;Affected products: Cloud Messaging&lt;/p&gt;</summary>
   </entry>
 </feed>
