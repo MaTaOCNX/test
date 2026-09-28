@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Firebase Status Dashboard Updates (MOCK FOR TESTING)</title>
   <!-- STEP 1 of the Remote Config incident replay (published by Claude) -->
-  <updated>2026-09-28T09:46:08+00:00</updated>
+  <updated>2026-09-28T10:03:49+00:00</updated>
   <link href="https://status.firebase.google.com/" rel="alternate" type="text/html"></link>
   <author>
     <name>Firebase</name>
@@ -14,7 +14,7 @@
     <title>Firebase Remote Config service disruption</title>
     <link href="https://status.firebase.google.com/incidents/sothrxmrXjhqQTeVnd8f" rel="alternate" type="text/html"></link>
     <id>tag:status.firebase.google.com,2025:feed:sothrxmrXjhqQTeVnd8f.MOCKUPDATE1</id>
-    <updated>2026-09-28T09:46:08+00:00</updated>
+    <updated>2026-09-28T10:03:49+00:00</updated>
     <summary type="html">&lt;p&gt; Incident began at &lt;strong&gt;2025-11-27 04:08&lt;/strong&gt; &lt;span&gt;(all times are &lt;strong&gt;US/Pacific&lt;/strong&gt;).&lt;/span&gt;&lt;/p&gt;&lt;div class="cBIRi14aVDP__status-update-text"&gt;&lt;p&gt;Firebase Remote Config is currently experiencing a service disruption. Please check back for status.&lt;/p&gt;
 &lt;/div&gt;&lt;hr&gt;&lt;p&gt;Affected products: Remote Config&lt;/p&gt;</summary>
   </entry>
